@@ -1,5 +1,6 @@
 # doctorfinder
-## doctor_finder
+## project files are in the brach "my-new-branch" 
+
 
 This project builds a web application for finding doctors in a specific city based on their domain (e.g., cardiologist, gastroenterologist, ENT specialist). It caters to three user roles:
 
